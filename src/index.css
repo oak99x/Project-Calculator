@@ -1,0 +1,33 @@
+@font-face{
+  font-family: 'RobodoMono';
+  src: url('./fonts/RobotoMono-Thin.ttf');
+}
+
+*{
+  font-family: 'RobodoMono', monospace;
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  color: #ffffff;
+  background: linear-gradient(to right, #434343, #0a0a0a);
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
