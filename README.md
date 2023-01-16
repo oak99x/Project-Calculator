@@ -5,7 +5,7 @@ The idea to put the fundamentals into practice after the basic study of the Reac
 
 ### Getting Started with Create React App
 
-This project was bootstrapped with `create-react-app`Create React App].
+This project was bootstrapped with `create-react-app`
 
 ### Available Scripts
 
