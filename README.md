@@ -1,5 +1,6 @@
 # Calculator
 Project Calculator, in this we use JavaScript, HTML, CSS, React.
+
 The idea to put the fundamentals into practice after the basic study of the React library.
 
 ### Getting Started with Create React App
