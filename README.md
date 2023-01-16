@@ -29,6 +29,6 @@ You may also see any lint errors in the console.
 <br>
 
 <p align="center">
-  <img src="./imgs/captura.png" width="500px" alt="Screenshot Calculator">
+  <img src="./src/imgs/captura.png" width="500px" alt="Screenshot Calculator">
   <p align="center">Figure 1: Screenshot</p>
 </p>
