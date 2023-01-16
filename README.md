@@ -11,7 +11,12 @@ This project was bootstrapped with `create-react-app`
 
 In the project directory, you can run:
 
-#### `npm start`
+- Install the dependencies
+    #### `npm i`
+
+- Run the project
+    #### `npm start`
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
