@@ -18,3 +18,17 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+### Used tools:
+- JavaScript
+- HTML
+- CSS
+- React
+
+
+<br>
+
+<p align="center">
+  <img src="./imgs/captura.png" width="500px" alt="Screenshot Calculator">
+  <p align="center">Figure 1: Screenshot</p>
+</p>
