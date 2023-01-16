@@ -9,13 +9,12 @@ root.render(
   <React.StrictMode>
     <div className="container">
       <div>
-        <h2> Calculadora </h2>
+        <h2> Calculator </h2>
         <h6>
-          Projeto Calculadora, neste contamos com o uso de JavaScript, HTML, CSS, React.
+          Project Calculator, in this we use JavaScript, HTML, CSS, React.
         </h6>
         <h6>
-          A ideia para por em prática os fundamentos após o estudo básico sobre a
-          biblioteca React.
+          The idea to put the fundamentals into practice after the basic study of the React library.
         </h6>
       </div>
 
