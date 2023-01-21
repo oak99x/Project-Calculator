@@ -35,6 +35,8 @@ You may also see any lint errors in the console.
 
 <br>
 
+#### <a href="https://project-calculator-nine.vercel.app/">Link to open the calculator</a>
+
 <p align="center">
   <img src="./src/imgs/captura.png" width="500px" alt="Screenshot Calculator">
   <p align="center">Figure 1: Screenshot</p>
